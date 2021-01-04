@@ -1,2 +1,2 @@
 # ARrepository
-put in all programs with ar
+uploads all programs with AR 
